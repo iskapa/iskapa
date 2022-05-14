@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Alex, nicknamed "kapa"</h1>
+<h1 align="center">Hi 👋🏻, I'm Alex, alias "kapa"</h1>
 <h3 align="center">Such a passionate romanian about IT/CODING</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
