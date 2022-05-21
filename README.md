@@ -1,5 +1,5 @@
 <h2>🖖Hi there</h2>
-<p>My name is Alexandru alias "kapa", a <web-developer/> who like to work with people and is honest with it. Learning something new every day, doing my work with some coffee and passion. Sometimes in love with design.</p>
+<p>My name is Alexandru alias "kapa", a < web-developer /> who like to work with people and is honest with it. Learning something new every day, doing my work with some coffee and passion. Sometimes in love with design.</p>
 
 <p>Connect with me on <a href="https://discord.gg/ZKBUZabU">Discord</a> or send me an <strong>mail</strong> itis.kapa@gmail.com</p>
 
